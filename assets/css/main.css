@@ -1757,6 +1757,11 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 100px;
 			height: 100px;
+			border-radius: 50%;
+			overflow: hidden;
+			mergin-top: -50%;
+			display: block;
+			position: relative;
 			background: #f00;
 		}
 
