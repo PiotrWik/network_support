@@ -1777,8 +1777,9 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			width: auto;
-			max-width: 100%;
+			width: 50%;
+			max-width: 400px;
+			height: auto;
 			margin: 0 auto;
 		}
 
