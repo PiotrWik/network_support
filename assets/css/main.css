@@ -2467,6 +2467,12 @@ input, select, textarea {
 				margin: 1.5em 1.25em 1.25em 1.25em;
 			}
 
+			#logo .image.avatar48 {
+   				display: block;
+ 				margin: 10px auto; /* Adjusts vertical and horizontal alignment */
+			}
+
+
 			#nav ul li a {
 				padding: 0.5em 1.25em 0.5em 1.25em;
 			}
