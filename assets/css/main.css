@@ -2129,6 +2129,11 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
+			
+		}
+		#logo .image.avatar48 {
+   			display: block;
+ 			margin: 10px auto; /* Adjusts vertical and horizontal alignment */
 		}
 
 	#nav ul {
@@ -2465,11 +2470,6 @@ input, select, textarea {
 
 			#logo {
 				margin: 1.5em 1.25em 1.25em 1.25em;
-			}
-
-			#logo .image.avatar48 {
-   				display: block;
- 				margin: 10px auto; /* Adjusts vertical and horizontal alignment */
 			}
 
 
