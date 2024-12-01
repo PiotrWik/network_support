@@ -150,7 +150,24 @@
 
 							<p>If you have a network project or need support, feel free to reach out.</p>
 
-							<form method="post" action="#">
+							<!-- modify this form HTML and place wherever you want your form -->
+							<form
+  								action="https://formspree.io/f/xvgodonl"
+								method="POST"
+							>
+ 								<label>
+							   		Your email:
+							    		<input type="email" name="email">
+								</label>
+								<label>
+									Your message:
+							    		<textarea name="message"></textarea>
+							  	</label>
+							  	<!-- your other form fields go here -->
+							 	 <button type="submit">Send</button>
+							</form>
+
+							<!-- <form method="post" action="#">
 								<div class="row">
 									<div class="col-6 col-12-mobile"><input type="text" name="name" placeholder="Name" /></div>
 									<div class="col-6 col-12-mobile"><input type="text" name="email" placeholder="Email" /></div>
@@ -161,7 +178,7 @@
 										<input type="submit" value="Send Message" />
 									</div>
 								</div>
-							</form>
+							</form> -->
 
 						</div>
 					</section>
