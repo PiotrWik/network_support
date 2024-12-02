@@ -1759,7 +1759,7 @@ input, select, textarea {
 			height: 100px;
 			border-radius: 50%;
 			overflow: hidden;
-			margin-top: 10%;
+			margin-top: -5%;
 			margin-bottom: 10px;
 			display: block;
 			position: relative;
