@@ -1759,7 +1759,7 @@ input, select, textarea {
 			height: 100px;
 			border-radius: 50%;
 			overflow: hidden;
-			mergin-top: -50%;
+			mergin-top: -10%;
 			display: block;
 			position: relative;
 			background: #f00;
@@ -1768,6 +1768,7 @@ input, select, textarea {
 			.image.avatar48 img {
 				width: 100px;
 				height: 100px;
+				object-fit: cover;
 			}
 
 		.image.fit {
