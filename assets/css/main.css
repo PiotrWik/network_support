@@ -1759,7 +1759,7 @@ input, select, textarea {
 			height: 100px;
 			border-radius: 50%;
 			overflow: hidden;
-			mergin-top: -10%;
+			margin-top: -20%;
 			display: block;
 			position: relative;
 			background: #f00;
@@ -2103,6 +2103,7 @@ input, select, textarea {
 				}
 
 	#logo {
+		align-items: center;
 		position: relative;
 		margin: 1.75em 1.5em 1.5em 1.5em;
 		min-height: 48px;
